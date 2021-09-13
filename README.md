@@ -8,4 +8,4 @@
 
 ### 聯絡我
 這是我的臉書:[link](https://www.facebook.com/ginny.hsiao.9/) 
-<br>這是我的email:[ginny.mg08@nycu.edu.tw]
+<br>這是我的email:ginny.mg08@nycu.edu.tw
