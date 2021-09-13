@@ -1,33 +1,11 @@
 ## Welcome to my website
 我是就讀交大工工系大三的學生蕭加宜，由於想申請跨域學程，所以選修了這門人工智慧導論!
+
 ### 關於我
 我是個活潑的人，喜歡交朋友
-<br>也喜歡彈吉他
-<br>目前是NYCU OpenHouse的行銷部部員
-```markdown
-Syntax highlighted code block
+<br>興趣是彈吉他
+<br>目前是[NYCU OpenHouse](https://www.facebook.com/NYCU.OH)的行銷部部員
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chiayi1111/chiayi1111.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 聯絡我
+這是我的臉書:[link](https://www.facebook.com/ginny.hsiao.9/) 
+<br>這是我的email:[ginny.mg08@nycu.edu.tw]
