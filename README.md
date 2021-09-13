@@ -1,8 +1,5 @@
 ## Welcome to my website
-
-You can use the [editor on GitHub](https://github.com/Chiayi1111/chiayi1111.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我是就讀交大工工系大三的學生蕭加宜，由於想申請跨域學程，所以選修了這門人工智慧導論!
 
 ### Markdown
 
