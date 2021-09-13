@@ -2,8 +2,8 @@
 我是就讀交大工工系大三的學生蕭加宜，由於想申請跨域學程，所以選修了這門人工智慧導論!
 ### 關於我
 我是個活潑的人，喜歡交朋友
-喜歡彈吉他
-目前是NYCU OpenHouse的行銷部部員
+<br>也喜歡彈吉他
+<br>目前是NYCU OpenHouse的行銷部部員
 ```markdown
 Syntax highlighted code block
 
